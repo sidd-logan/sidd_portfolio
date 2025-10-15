@@ -1,6 +1,6 @@
 # SIDDHARTH_SAWAI_PORTFOLIO
 
-# [Project 1: Vendor Performance Analysis ](http://www.example.com) <br>
+# [Project 1: Vendor Performance Analysis ](https://github.com/sidd-logan/Vendor_Performance_Analysis) <br>
 This is a project for vendor performance analysis, in which I have explore various techniques 
 such as EDA,Visualization,KPI,confidance inteval,hypothesis testing,top performance,bulk purchase analysis over unit price.
 
