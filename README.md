@@ -272,10 +272,10 @@ Card • Bar Chart • Donut Chart • Table • Gauge • Line Chart • Filled
 
 ### 6.	Screenshots
 Overall Performance
-Example: ![Dashboard Preview](https://github.com/sidd-logan/Sales-Performance-Dashboard/blob/main/overall_Performance.png)
+Example: ![Dashboard Preview](files/overall_Performance.png)
 
 Customer Insight
-Example: ![Dashboard Preview](https://github.com/sidd-logan/Sales-Performance-Dashboard/blob/main/customer_insight.png)
+Example: ![Dashboard Preview](files/customer_insight.png)
 
 Product Insight
-Example: ![Dashboard Preview](https://github.com/sidd-logan/Sales-Performance-Dashboard/blob/main/product_insight.png)
+Example: ![Dashboard Preview](files/product_insight.png)
