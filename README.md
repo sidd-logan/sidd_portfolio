@@ -1,6 +1,12 @@
 # SIDDHARTH_SAWAI_PORTFOLIO
 
 # [Project 1: Vendor Performance Analysis ](https://github.com/sidd-logan/Vendor_Performance_Analysis) <br>
+# [Project 2: Sales Performance Dashboard ](https://github.com/sidd-logan/Sales-Performance-Dashboard) <br>
+
+# Project Details <br>
+
+
+# [Project 1: Vendor Performance Analysis ](https://github.com/sidd-logan/Vendor_Performance_Analysis) <br>
 This is a project for vendor performance analysis, in which I have explore various techniques 
 such as EDA,Visualization,KPI,confidance inteval,hypothesis testing,top performance,bulk purchase analysis over unit price.
 
@@ -138,3 +144,138 @@ Documentation: Markdown, PDF
 
 ### Confidence Interval Comparision : TOP vs LOW Vendors Profit Margin
 ![ Confidence Interval Comparision : TOP vs LOW Vendors Profit Margin ](files/confidance_interval.png) 
+
+
+# [Project 2: Sales Performance Dashboard ](https://github.com/sidd-logan/Sales-Performance-Dashboard) <br>
+
+# 📊 Sales Performance Dashboard
+
+## 🔹 Project Overview
+The **Sales Performance Dashboard** is an interactive business intelligence solution built in **Power BI**. It provides a 360° view of business performance, customer behavior, and product insights to help stakeholders make data-driven decisions.
+
+---
+
+## 🔹 Business Problem
+Businesses face challenges in tracking real-time sales performance and customer engagement. Data often exists in different sources without proper visualization, making it hard for management to:
+
+- Track important sales KPIs
+- Identify regional sales performance
+- Monitor customer retention behavior
+- Analyze product-level performance
+
+This dashboard centralizes sales and customer data to uncover valuable insights and support decision-making.
+
+---
+
+## 🔹 Objectives
+✅ Track sales key performance indicators  
+✅ Analyze customer acquisition and retention  
+✅ Explore geographical and product-wise sales  
+✅ Support business strategy using data analytics  
+
+---
+
+## 🔹 Dataset Description
+- **Source**: MySQL Database  
+- **Data**: Sales transactions and customer records  
+- **Key Columns**: Order ID, Customer ID, Product Category, Quantity, Order Status, Revenue, Payment Type, City, Signup Date, Customer Rating  
+
+---
+
+## 🔹 Data Transformation
+Performed in **MySQL**:
+- Removed duplicates and null values  
+- Cleaned customer demographic data  
+- Created joins between sales and customer tables  
+- Aggregated monthly & regional revenue  
+- Exported clean dataset to Power BI  
+
+---
+
+## 🔹 Power BI Actions Taken
+- Built relational **data model**
+- Created **interactive visuals and slicers**
+- Used **DAX measures** for KPIs:
+  - Total Orders
+  - Total Revenue
+  - Success Rate
+  - Cancel/Return Rate
+  - Average Rating
+  - Average Orders per Customer
+  - Retention Rate
+
+---
+
+## 🔹 Visualizations Used
+Card • Bar Chart • Donut Chart • Table • Gauge • Line Chart • Filled Map • Column Chart • Matrix
+
+---
+
+## 🔹 Dashboard Pages
+
+### 🔸 Page 1: Sales Overview
+- Total Orders & Revenue
+- Order Success vs Cancel/Return Rate
+- Revenue by Month
+- Revenue by City (Map View)
+
+### 🔸 Page 2: Customer Insights
+- Average Orders per Customer
+- Retention Rate
+- Signup Trend
+- Active & Premium Customers
+- Payment Preferences
+- Age Group Analysis
+- Average Customer Rating
+
+### 🔸 Page 3: Product Insights
+- Top 3 Selling Products by Category
+- Total Quantity Sold by Category
+- Average Discount by Category
+
+---
+
+## 🔹 Key Insights
+✔ Majority of revenue comes from top-tier cities  
+✔ Premium customers have higher retention and spend more  
+✔ Online payment is the most used transaction method  
+✔ Certain product categories dominate sales volume  
+✔ Discount strategy impacts purchase frequency  
+
+---
+
+## 🔹 Tools Used
+| Tool | Purpose |
+|------|---------|
+| Power BI | Data Visualization & Dashboard |
+| MySQL | Data Cleaning and Transformation |
+| DAX | KPI Measures |
+| Power Query | Data Modeling |
+
+---
+
+## 🔹 Future Improvements
+- Add forecasting using Power BI Analytics
+- Integrate real-time MySQL connection
+- Include product profitability metrics
+- Deploy dashboard to Power BI Service
+
+---
+
+## 👨‍💻 Author
+**Siddharth Sawai**  
+📧 siddharth.c.sawai@gmail.com  
+🔗 [Linkedin](https://www.linkedin.com/in/siddharth-sawai-786003129/)
+🐙 [Github](https://github.com/sidd-logan)  
+
+---
+
+### 6.	Screenshots
+Overall Performance
+Example: ![Dashboard Preview](https://github.com/sidd-logan/Sales-Performance-Dashboard/blob/main/overall_Performance.png)
+
+Customer Insight
+Example: ![Dashboard Preview](https://github.com/sidd-logan/Sales-Performance-Dashboard/blob/main/customer_insight.png)
+
+Product Insight
+Example: ![Dashboard Preview](https://github.com/sidd-logan/Sales-Performance-Dashboard/blob/main/product_insight.png)
