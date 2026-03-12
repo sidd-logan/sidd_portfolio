@@ -2,6 +2,7 @@
 
 # [Project 1: Vendor Performance Analysis ](https://github.com/sidd-logan/Vendor_Performance_Analysis) <br>
 # [Project 2: Sales Performance Dashboard ](https://github.com/sidd-logan/Sales-Performance-Dashboard) <br>
+# [Project 3: Medical Chatbot ](https://github.com/sidd-logan/medical_chatbot) <br>
 
 # Project Details <br>
 
